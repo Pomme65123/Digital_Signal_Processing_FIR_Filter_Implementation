@@ -167,7 +167,6 @@ $$y[n] = \frac{1}{4}(x[n] + x[n-1] + x[n-2] + x[n-3])$$
 
 ## Additional Resources
 
-- **[Complete Documentation](Digital_Signal_Processing_FIR_Filter_Implementation.pdf)**: Comprehensive project documentation
 - **[Assembly Source Code](FIR_Filter.asm)**: Complete PIC18F4520 implementation
 - **[MATLAB Analysis Script](FIR_Filter_FreqResp.m)**: Frequency response analysis tool
 
