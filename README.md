@@ -75,15 +75,19 @@ The filter demonstrates low-pass characteristics with the following test signals
 #### Input Signal Testing
 
 **Sine Wave Response:**
+
 ![Sine Wave Test](Images/Sine.PNG)
 
 **Square Wave Response:**
+
 ![Square Wave Test](Images/Square.PNG)
 
 **Triangle Wave Response:**
+
 ![Triangle Wave Test](Images/Triangle.PNG)
 
 **Ramp Signal Response:**
+
 ![Ramp Signal Test](Images/Ramp.PNG)
 
 ### Nyquist Frequency Analysis
